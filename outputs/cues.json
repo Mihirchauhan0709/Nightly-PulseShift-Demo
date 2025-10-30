@@ -1,0 +1,24 @@
+{
+  "cues": [
+    {
+      "second": 0,
+      "cue": "Scoreboard prompt: MAKE SOME NOISE"
+    },
+    {
+      "second": 5,
+      "cue": "Fan-cam on diehards + lower-bowl lights up"
+    },
+    {
+      "second": 10,
+      "cue": "Scoreboard prompt: MAKE SOME NOISE"
+    },
+    {
+      "second": 15,
+      "cue": "Fan-cam on diehards + lower-bowl lights up"
+    },
+    {
+      "second": 48,
+      "cue": "Drumline hit on 1 and 3 for 8 bars"
+    }
+  ]
+}
